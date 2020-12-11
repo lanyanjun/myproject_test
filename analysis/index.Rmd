@@ -9,3 +9,8 @@ editor_options:
 ---
 
 Welcome to my research website.
+This is a special file, because it is used to create the home page for this project (testing git and version control). 
+
+
+* [Teeth growth](teeth.html)
+
